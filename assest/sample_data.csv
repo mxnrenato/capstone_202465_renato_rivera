@@ -1,0 +1,101 @@
+num_hrse_pwr,msrp_options_percentage,diff_in_days,TotDaysDown,MonthsIntoWarranty,historical_owners_count,Body_Equipment,Electrics_Electronics,Chassis,Powertrain_electronics,Gasoline_Engine,Diesel_Engine,Transmission,Hybrid_engine,tot_retailer_paid,miles,repair_attempts,days_down,dealer_id,vin,target,ne_date,source,model_year,model_class,issue,state
+550,0.11,0,0,6.22580645,6,null,null,null,null,null,null,null,null,null,18000,4,30,56113,4JGDA7EB4KB185027,1,2020-10-05,trade_assist,2019,GLE,Driver Assist Features,NY
+550,0.11,2,2,6.48387097,6,null,null,null,null,null,null,null,null,null,18000,4,30,56113,4JGDA7EB4KB185027,1,2020-10-05,trade_assist,2019,GLE,Driver Assist Features,NY
+550,0.11,21,23,9.87096774,6,4,1,1,0,0,0,0,0,7730.51,18000,4,30,56113,4JGDA7EB4KB185027,1,2020-10-05,trade_assist,2019,GLE,Driver Assist Features,NY
+550,0.11,5,28,11.25806452,6,null,null,null,null,null,null,null,null,null,18000,4,30,56113,4JGDA7EB4KB185027,1,2020-10-05,trade_assist,2019,GLE,Driver Assist Features,NY
+550,0.11,13,41,11.32258065,6,1,1,0,0,0,0,0,0,312.92,18000,4,30,56113,4JGDA7EB4KB185027,1,2020-10-05,trade_assist,2019,GLE,Driver Assist Features,NY
+550,0.11,14,55,12,6,0,0,0,0,0,0,0,0,166.21,18000,4,30,56113,4JGDA7EB4KB185027,1,2020-10-05,trade_assist,2019,GLE,Driver Assist Features,NY
+362,0.15,6,6,28.4516129,1,0,0,1,0,0,0,0,0,1630.08,50000,4,30,05752,4JGDF6EE3HA944755,1,2019-08-13,buyback,2017,GLS,Brakes,CA
+362,0.22,3,3,38.06451613,3,2,0,0,0,1,0,1,0,2380.41,50000,4,30,05235,4JGDF6EE6HA827932,1,2023-09-26,buyback,2017,GLS,Engine / Trans Noise,CA
+362,0.22,2,5,38.58064516,3,0,1,0,0,0,0,0,0,96,50000,4,30,05235,4JGDF6EE6HA827932,1,2023-09-26,buyback,2017,GLS,Engine / Trans Noise,CA
+362,0.22,2,7,39.90322581,3,1,0,0,0,1,0,0,0,1449.36,50000,4,30,05235,4JGDF6EE6HA827932,1,2023-09-26,buyback,2017,GLS,Engine / Trans Noise,CA
+362,0.22,1,8,43.12903226,3,0,1,0,0,0,0,0,0,526.64,50000,4,30,05235,4JGDF6EE6HA827932,1,2023-09-26,buyback,2017,GLS,Engine / Trans Noise,CA
+362,0.22,1,9,47.12903226,3,null,null,null,null,null,null,null,null,null,50000,4,30,05235,4JGDF6EE6HA827932,1,2023-09-26,buyback,2017,GLS,Engine / Trans Noise,CA
+577,0.04,2,2,46.77419355,4,null,null,null,null,null,null,null,null,null,50000,4,30,05270,4JGDF7FEXHA856693,1,2023-04-07,buyback,2017,GLS,Key / Keyless-Go,CA
+463,0.05,0,0,0.80645161,6,null,null,null,null,null,null,null,null,null,50000,4,30,05612,4JGDM2DB0PA006281,1,2023-06-30,buyback,2023,EQS,Steering,CA
+463,0.05,190,190,2.64516129,6,2,0,0,0,0,0,0,0,5686.2,50000,4,30,05612,4JGDM2DB0PA006281,1,2023-06-30,buyback,2023,EQS,Steering,CA
+463,0.05,13,203,8.83870968,6,null,null,null,null,null,null,null,null,null,50000,4,30,05612,4JGDM2DB0PA006281,1,2023-06-30,buyback,2023,EQS,Steering,CA
+463,0.05,52,255,15.48387097,6,0,0,2,0,0,0,0,0,4270.9,null,3,30,05612,4JGDM2DB0PA006281,1,2023-06-30,buyback,2023,EQS,Steering,CA
+463,0.05,49,304,16,6,null,null,null,null,null,null,null,null,null,null,3,30,05612,4JGDM2DB0PA006281,1,2023-06-30,buyback,2023,EQS,Steering,CA
+463,0.05,41,345,17.61290323,6,null,null,null,null,null,null,null,null,null,50000,4,30,05612,4JGDM2DB0PA006281,1,2023-06-30,buyback,2023,EQS,Steering,CA
+463,0.05,0,345,17.67741935,6,null,null,null,null,null,null,null,null,null,null,3,30,05612,4JGDM2DB0PA006281,1,2023-06-30,buyback,2023,EQS,Steering,CA
+463,0.05,5,351,21.03225806,6,0,0,0,0,0,0,0,0,894.6,50000,4,30,05612,4JGDM2DB0PA006281,1,2023-06-30,buyback,2023,EQS,Steering,CA
+463,0.03,1,1,0.03225806,4,null,null,null,null,null,null,null,null,null,24000,3,30,04507,4JGDM2DB5PA009094,1,2023-08-28,buyback,2023,EQS,Battery Drainage / No Start,AR
+463,0.03,8,9,4,4,0,0,0,0,0,0,0,0,70,24000,3,30,04507,4JGDM2DB5PA009094,1,2023-08-28,buyback,2023,EQS,Battery Drainage / No Start,AR
+463,0.03,92,101,6.58064516,4,0,0,0,0,0,1,0,0,2626.8,24000,3,30,04507,4JGDM2DB5PA009094,1,2023-08-28,buyback,2023,EQS,Battery Drainage / No Start,AR
+463,0.03,33,134,9.06451613,4,null,null,null,null,null,null,null,null,null,24000,3,30,04507,4JGDM2DB5PA009094,1,2023-08-28,buyback,2023,EQS,Battery Drainage / No Start,AR
+463,0.03,16,150,11.29032258,4,null,null,null,null,null,null,null,null,null,24000,3,30,04507,4JGDM2DB5PA009094,1,2023-08-28,buyback,2023,EQS,Battery Drainage / No Start,AR
+463,0.03,4,154,15.4516129,4,1,0,0,0,0,0,0,0,1887.74,null,3,30,04507,4JGDM2DB5PA009094,1,2023-08-28,buyback,2023,EQS,Battery Drainage / No Start,AR
+463,0.03,0,0,2.48387097,2,null,null,null,null,null,null,null,null,null,12000,3,30,67102,4JGDM4EB0PA001060,1,2023-06-02,buyback,1999,EQS,Climate Control System,PA
+463,0.03,14,14,1.41935484,2,null,null,null,null,null,null,null,null,null,12000,3,30,67102,4JGDM4EB0PA001060,1,2023-06-02,buyback,1999,EQS,Climate Control System,PA
+463,0.03,4,18,1,2,0,1,0,0,0,0,0,0,1123.89,12000,3,30,67102,4JGDM4EB0PA001060,1,2023-06-02,buyback,1999,EQS,Climate Control System,PA
+463,0.03,1,19,0.06451613,2,null,null,null,null,null,null,null,null,null,12000,3,30,67102,4JGDM4EB0PA001060,1,2023-06-02,buyback,1999,EQS,Climate Control System,PA
+463,0.03,0,19,1.5483871,2,0,0,0,0,0,0,0,0,55.48,12000,3,30,67102,4JGDM4EB0PA001060,1,2023-06-02,buyback,1999,EQS,Climate Control System,PA
+463,0.03,120,139,2.4516129,2,0,0,0,0,0,0,0,0,7777.92,12000,3,30,67102,4JGDM4EB0PA001060,1,2023-06-02,buyback,1999,EQS,Climate Control System,PA
+463,0.03,0,139,5.80645161,2,null,null,null,null,null,null,null,null,null,12000,3,30,67102,4JGDM4EB0PA001060,1,2023-06-02,buyback,1999,EQS,Climate Control System,PA
+463,0.11,1,1,0.61290323,5,null,null,null,null,null,null,null,null,null,18000,4,30,55143,4JGDM4EBXPA003169,1,2023-03-01,buyback,2023,EQS,Battery Drainage / No Start,NY
+463,0.11,0,1,0.48387097,5,null,null,null,null,null,null,null,null,null,18000,4,30,55143,4JGDM4EBXPA003169,1,2023-03-01,buyback,2023,EQS,Battery Drainage / No Start,NY
+463,0.11,1,2,0.03225806,5,null,null,null,null,null,null,null,null,null,18000,4,30,55143,4JGDM4EBXPA003169,1,2023-03-01,buyback,2023,EQS,Battery Drainage / No Start,NY
+463,0.11,2,4,2.35483871,5,0,0,0,0,0,0,0,0,171,18000,4,30,55143,4JGDM4EBXPA003169,1,2023-03-01,buyback,2023,EQS,Battery Drainage / No Start,NY
+463,0.11,52,56,2.61290323,5,null,null,null,null,null,null,null,null,null,18000,4,30,55143,4JGDM4EBXPA003169,1,2023-03-01,buyback,2023,EQS,Battery Drainage / No Start,NY
+463,0.11,64,123,5.06451613,5,null,null,null,null,null,null,null,null,null,18000,4,30,55143,4JGDM4EBXPA003169,1,2023-03-01,buyback,2023,EQS,Battery Drainage / No Start,NY
+463,0.11,3,123,5.06451613,5,null,null,null,null,null,null,null,null,null,18000,4,30,55143,4JGDM4EBXPA003169,1,2023-03-01,buyback,2023,EQS,Battery Drainage / No Start,NY
+385,0.16,21,21,6.06451613,2,0,0,0,0,1,0,0,0,7060.65,null,3,30,61406,4JGED6EB0KA145068,1,2019-10-30,buyback,2019,GLE,Engine Function - Other,ND
+385,0.19,8,8,7,5,null,null,null,null,null,null,null,null,null,50000,4,30,05119,4JGED6EB7KA135038,1,2020-02-21,buyback,2019,GLE,Key / Keyless-Go,CA
+385,0.19,16,24,7.70967742,5,0,2,0,0,0,0,0,0,872.01,50000,4,30,05119,4JGED6EB7KA135038,1,2020-02-21,buyback,2019,GLE,Key / Keyless-Go,CA
+385,0.19,8,32,8.58064516,5,0,1,0,0,0,0,0,0,85.95,50000,4,30,05119,4JGED6EB7KA135038,1,2020-02-21,buyback,2019,GLE,Key / Keyless-Go,CA
+385,0.19,0,32,11.87096774,5,null,null,null,null,null,null,null,null,null,50000,4,30,05119,4JGED6EB7KA135038,1,2020-02-21,buyback,2019,GLE,Key / Keyless-Go,CA
+385,0.19,0,32,12.70967742,5,null,null,null,null,null,null,null,null,null,50000,4,30,05119,4JGED6EB7KA135038,1,2020-02-21,buyback,2019,GLE,Key / Keyless-Go,CA
+385,0.19,16,69,16.83870968,5,null,null,null,null,null,null,null,null,null,24000,3,20,05119,4JGED6EB7KA135038,1,2020-02-21,buyback,2019,GLE,Key / Keyless-Go,CA
+385,0.19,0,69,21.19354839,5,null,null,null,null,null,null,null,null,null,24000,3,20,05119,4JGED6EB7KA135038,1,2020-02-21,buyback,2019,GLE,Key / Keyless-Go,CA
+385,0.19,0,69,21.19354839,5,null,null,null,null,null,null,null,null,null,24000,3,20,05119,4JGED6EB7KA135038,1,2020-02-21,buyback,2019,GLE,Key / Keyless-Go,CA
+385,0.19,0,69,21.19354839,5,null,null,null,null,null,null,null,null,null,24000,3,20,05119,4JGED6EB7KA135038,1,2020-02-21,buyback,2019,GLE,Key / Keyless-Go,CA
+385,0.19,0,69,21.19354839,5,null,null,null,null,null,null,null,null,null,24000,3,20,05119,4JGED6EB7KA135038,1,2020-02-21,buyback,2019,GLE,Key / Keyless-Go,CA
+385,0.12,0,1,15.64516129,6,1,0,0,0,0,0,0,0,488.92,null,3,30,14302,4JGED6EB9KA134019,1,2019-12-02,trade_assist,2019,GLE,Climate Control System,FL
+255,0.13,1,1,0.4516129,5,null,null,null,null,null,null,null,null,null,50000,4,30,05758,4JGFB4JB5MA438181,1,2023-11-15,buyback,2021,GLE,Infotainment / Telematics,CA
+255,0.13,4,5,2.5483871,5,0,2,0,0,0,0,0,0,1420.23,50000,4,30,05758,4JGFB4JB5MA438181,1,2023-11-15,buyback,2021,GLE,Infotainment / Telematics,CA
+255,0.13,18,23,25.32258065,5,0,0,0,0,0,0,0,0,116.56,50000,4,30,05758,4JGFB4JB5MA438181,1,2023-11-15,buyback,2021,GLE,Infotainment / Telematics,CA
+255,0.13,2,25,26.64516129,5,1,0,0,0,0,0,0,0,123.29,50000,4,30,05758,4JGFB4JB5MA438181,1,2023-11-15,buyback,2021,GLE,Infotainment / Telematics,CA
+255,0.13,28,53,27.5483871,5,0,2,0,0,0,0,0,0,892.53,50000,4,30,05758,4JGFB4JB5MA438181,1,2023-11-15,buyback,2021,GLE,Infotainment / Telematics,CA
+255,0.13,10,63,33.12903226,5,null,null,null,null,null,null,null,null,null,50000,4,30,05758,4JGFB4JB5MA438181,1,2023-11-15,buyback,2021,GLE,Infotainment / Telematics,CA
+255,0.12,0,0,7.74193548,3,null,null,null,null,null,null,null,null,null,50000,4,30,05746,4JGFB4JB9NA726318,1,2023-06-19,buyback,2022,GLE,Windows / Windshield,CA
+255,0.12,4,4,0.09677419,3,null,null,null,null,null,null,null,null,null,50000,4,30,05746,4JGFB4JB9NA726318,1,2023-06-19,buyback,2022,GLE,Windows / Windshield,CA
+255,0.12,9,13,0,3,null,null,null,null,null,null,null,null,null,50000,4,30,05746,4JGFB4JB9NA726318,1,2023-06-19,buyback,2022,GLE,Windows / Windshield,CA
+255,0.12,3,16,0.35483871,3,null,null,null,null,null,null,null,null,null,50000,4,30,05746,4JGFB4JB9NA726318,1,2023-06-19,buyback,2022,GLE,Windows / Windshield,CA
+255,0.12,19,35,1.22580645,3,null,null,null,null,null,null,null,null,null,50000,4,30,05746,4JGFB4JB9NA726318,1,2023-06-19,buyback,2022,GLE,Windows / Windshield,CA
+255,0.12,8,50,2.90322581,3,1,0,0,0,0,0,0,0,250,50000,4,30,05746,4JGFB4JB9NA726318,1,2023-06-19,buyback,2022,GLE,Windows / Windshield,CA
+255,0.12,6,56,3.80645161,3,0,1,0,0,0,0,0,0,496.12,50000,4,30,05746,4JGFB4JB9NA726318,1,2023-06-19,buyback,2022,GLE,Windows / Windshield,CA
+255,0.12,1,57,4.19354839,3,null,null,null,null,null,null,null,null,null,50000,4,30,05746,4JGFB4JB9NA726318,1,2023-06-19,buyback,2022,GLE,Windows / Windshield,CA
+255,0.12,15,72,4.51612903,3,0,0,0,0,0,0,0,0,21.3,50000,4,30,05746,4JGFB4JB9NA726318,1,2023-06-19,buyback,2022,GLE,Windows / Windshield,CA
+255,0.12,16,88,6.25806452,3,null,null,null,null,null,null,null,null,null,50000,4,30,05746,4JGFB4JB9NA726318,1,2023-06-19,buyback,2022,GLE,Windows / Windshield,CA
+255,0.07,2,2,6.58064516,2,2,0,0,0,0,0,0,0,943.09,null,3,30,14149,4JGFB4JBXLA101021,1,2022-08-24,buyback,2020,GLE,Engine Function - Other,FL
+255,0.07,3,5,7.03225806,2,null,null,null,null,null,null,null,null,null,null,3,30,14149,4JGFB4JBXLA101021,1,2022-08-24,buyback,2020,GLE,Engine Function - Other,FL
+255,0.07,4,9,7.4516129,2,null,null,null,null,null,null,null,null,null,null,3,30,14149,4JGFB4JBXLA101021,1,2022-08-24,buyback,2020,GLE,Engine Function - Other,FL
+255,0.07,9,18,11.87096774,2,0,0,0,0,0,0,0,0,1142.76,null,3,30,14149,4JGFB4JBXLA101021,1,2022-08-24,buyback,2020,GLE,Engine Function - Other,FL
+255,0.07,51,69,12.29032258,2,0,0,0,0,0,0,0,0,45.94,null,3,30,14149,4JGFB4JBXLA101021,1,2022-08-24,buyback,2020,GLE,Engine Function - Other,FL
+255,0.07,4,73,13.74193548,2,1,0,0,0,0,0,0,0,1674.41,null,3,30,14149,4JGFB4JBXLA101021,1,2022-08-24,buyback,2020,GLE,Engine Function - Other,FL
+255,0.07,0,73,13.90322581,2,null,null,null,null,null,null,null,null,null,null,3,30,14149,4JGFB4JBXLA101021,1,2022-08-24,buyback,2020,GLE,Engine Function - Other,FL
+255,0.07,2,75,16.48387097,2,null,null,null,null,null,null,null,null,null,null,3,30,14149,4JGFB4JBXLA101021,1,2022-08-24,buyback,2020,GLE,Engine Function - Other,FL
+255,0.18,1,1,0.06451613,6,null,null,null,null,null,null,null,null,null,null,3,30,14302,4JGFB4KB1NA663312,1,2022-10-13,trade_assist,2022,GLE,Engine Function - Other,FL
+255,0.18,2,3,0.03225806,6,null,null,null,null,null,null,null,null,null,null,3,30,14302,4JGFB4KB1NA663312,1,2022-10-13,trade_assist,2022,GLE,Engine Function - Other,FL
+255,0.18,1,4,0.09677419,6,null,null,null,null,null,null,null,null,null,null,3,30,14302,4JGFB4KB1NA663312,1,2022-10-13,trade_assist,2022,GLE,Engine Function - Other,FL
+255,0.18,7,11,6.87096774,6,1,0,0,0,0,0,0,0,2070.36,null,3,30,14302,4JGFB4KB1NA663312,1,2022-10-13,trade_assist,2022,GLE,Engine Function - Other,FL
+255,0.18,10,21,7.25806452,6,null,null,null,null,null,null,null,null,null,null,3,30,14302,4JGFB4KB1NA663312,1,2022-10-13,trade_assist,2022,GLE,Engine Function - Other,FL
+255,0.18,7,28,8.74193548,6,null,null,null,null,null,null,null,null,null,null,3,30,14302,4JGFB4KB1NA663312,1,2022-10-13,trade_assist,2022,GLE,Engine Function - Other,FL
+255,0.18,0,28,8.90322581,6,0,0,0,0,0,0,0,0,74.7,null,3,30,14302,4JGFB4KB1NA663312,1,2022-10-13,trade_assist,2022,GLE,Engine Function - Other,FL
+255,0.18,0,28,9.32258065,6,null,null,null,null,null,null,null,null,null,null,3,30,14302,4JGFB4KB1NA663312,1,2022-10-13,trade_assist,2022,GLE,Engine Function - Other,FL
+255,0.27,8,8,3.09677419,5,null,null,null,null,null,null,null,null,null,null,3,30,80206,4JGFB4KB3LA024703,1,2021-08-25,buyback,2020,GLE,Battery Drainage / No Start,VA
+255,0.27,15,23,0.5483871,5,0,1,0,0,0,0,0,0,256.75,null,3,30,80206,4JGFB4KB3LA024703,1,2021-08-25,buyback,2020,GLE,Battery Drainage / No Start,VA
+255,0.27,0,23,0.03225806,5,null,null,null,null,null,null,null,null,null,null,3,30,80206,4JGFB4KB3LA024703,1,2021-08-25,buyback,2020,GLE,Battery Drainage / No Start,VA
+255,0.27,0,23,1.77419355,5,0,1,0,0,0,0,0,0,80.52,null,3,30,80206,4JGFB4KB3LA024703,1,2021-08-25,buyback,2020,GLE,Battery Drainage / No Start,VA
+255,0.27,13,36,3.22580645,5,null,null,null,null,null,null,null,null,null,null,3,30,80206,4JGFB4KB3LA024703,1,2021-08-25,buyback,2020,GLE,Battery Drainage / No Start,VA
+255,0.27,0,36,3.87096774,5,null,null,null,null,null,null,null,null,null,null,3,30,80206,4JGFB4KB3LA024703,1,2021-08-25,buyback,2020,GLE,Battery Drainage / No Start,VA
+255,0.27,15,51,4.32258065,5,1,1,0,0,0,0,0,0,1832.46,null,3,30,80206,4JGFB4KB3LA024703,1,2021-08-25,buyback,2020,GLE,Battery Drainage / No Start,VA
+255,0.27,0,51,4.93548387,5,null,null,null,null,null,null,null,null,null,null,3,30,80206,4JGFB4KB3LA024703,1,2021-08-25,buyback,2020,GLE,Battery Drainage / No Start,VA
+255,0.27,0,51,4.96774194,5,null,null,null,null,null,null,null,null,null,null,3,30,80206,4JGFB4KB3LA024703,1,2021-08-25,buyback,2020,GLE,Battery Drainage / No Start,VA
+255,0.27,11,62,6.06451613,5,null,null,null,null,null,null,null,null,null,null,3,30,80206,4JGFB4KB3LA024703,1,2021-08-25,buyback,2020,GLE,Battery Drainage / No Start,VA
+255,0.27,67,129,7.5483871,5,null,null,null,null,null,null,null,null,null,null,3,30,80206,4JGFB4KB3LA024703,1,2021-08-25,buyback,2020,GLE,Battery Drainage / No Start,VA
+255,0.27,4,133,9.74193548,5,0,1,0,0,0,0,0,0,3782.79,null,3,30,80206,4JGFB4KB3LA024703,1,2021-08-25,buyback,2020,GLE,Battery Drainage / No Start,VA
+255,0.27,10,143,17.80645161,5,0,1,0,0,0,0,0,0,641.9,null,3,30,80206,4JGFB4KB3LA024703,1,2021-08-25,buyback,2020,GLE,Battery Drainage / No Start,VA
+255,0.23,1,45,8.22580645,9,null,null,null,null,null,null,null,null,null,24000,3,30,75116,4JGFB4KB3LA056633,1,2019-11-15,buyback,2020,GLE,Safety Systems,TX
+255,0.23,11,45,8.22580645,9,0,0,0,0,0,0,0,0,373.16,24000,3,30,75116,4JGFB4KB3LA056633,1,2019-11-15,buyback,2020,GLE,Safety Systems,TX
