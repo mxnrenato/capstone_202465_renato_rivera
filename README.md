@@ -9,7 +9,7 @@ Este repositorio contiene la documentación y el código desarrollado para el Pr
 ## Tecnologías Utilizadas
 - Python
 - Jupyter Notebook
-- [Otras bibliotecas o herramientas relevantes]
+- Sklearn, Learn Balance, Pyspark
 
 ## Instalación
 Para ejecutar este proyecto localmente, sigue estos pasos:
